@@ -4,8 +4,8 @@
 
 * [Meshtastic.org](https://meshtastic.org/) - main site of project
 * [Meshtastic.ru](https://meshtastic.ru/) - site of russian meshtastic team
-* [Meshtastici map](https://canvis.app/meshtastic-map) - map of meshtastic nodes
-* [Meshtastici forum](https://meshtastic.discourse.group) - meshtastic forum at discourse.group
+* [Meshtastic map](https://canvis.app/meshtastic-map) - map of meshtastic nodes
+* [Meshtastic forum](https://meshtastic.discourse.group) - meshtastic forum at discourse.group
 
 ## Hardware
 
