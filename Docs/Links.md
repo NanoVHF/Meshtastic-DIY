@@ -9,6 +9,7 @@
 ## Hardware
 
 * [Aliexpress aluminium case](https://aliexpress.ru/item/32226417158.html) - aluminium case for PCB 45x45x18.5 mm external
+* [Aliexpress IPEX-SMA pigtail](https://aliexpress.ru/item/4001038251087.html) - IPEX/IPX/U.fl jack to SMA socket pigtail with seal
 
 * [Aliexpress IPEX to SMA converter](https://a.aliexpress.com/_AlJSeS) - unchecked
 
