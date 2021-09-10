@@ -8,7 +8,7 @@
 
 ## Hardware
 
-* [Aliexpress aluminium case](https://aliexpress.ru/item/32226417158.html) - aluminium case for PCB 45*45*18.5 mm external
+* [Aliexpress aluminium case](https://aliexpress.ru/item/32226417158.html) - aluminium case for PCB 45x45x18.5 mm external
 
 * [Aliexpress IPEX to SMA converter](https://a.aliexpress.com/_AlJSeS) - unchecked
 
