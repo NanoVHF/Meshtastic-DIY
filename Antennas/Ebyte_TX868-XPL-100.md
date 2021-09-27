@@ -4,4 +4,8 @@ Ebyte TX868-XPL-100 Antenna 868MHz 3.5dBi High Gain Omnidirectional SMA Interfac
 
 Purchase link: https://a.aliexpress.com/_987405
 
+Inexpencive collinear antenna.
+
+Test setup: NanoVNA V2 china clone, NanoVNA_QT_GUI profram, can from conserved peaches. Sweep from 790 to 950 MHz, 200 poins.
+
 ![SWR graph](TX868-XPL-100.png)
