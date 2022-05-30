@@ -3978,9 +3978,9 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <label x="142.24" y="109.22" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="TTGO-T8_V1.8" gate="G$1" pin="14"/>
-<wire x1="106.68" y1="33.02" x2="116.84" y2="33.02" width="0.1524" layer="91"/>
-<label x="109.22" y="33.02" size="1.778" layer="95"/>
+<pinref part="TTGO-T8_V1.8" gate="G$1" pin="12"/>
+<wire x1="106.68" y1="27.94" x2="116.84" y2="27.94" width="0.1524" layer="91"/>
+<label x="109.22" y="27.94" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="TXEN" class="0">
@@ -4183,18 +4183,6 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <label x="43.18" y="33.02" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="12" class="0">
-<segment>
-<pinref part="TTGO-T8_V1.8" gate="G$1" pin="12"/>
-<wire x1="106.68" y1="27.94" x2="116.84" y2="27.94" width="0.1524" layer="91"/>
-<label x="111.76" y="27.94" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="J2" gate="G$1" pin="3"/>
-<wire x1="38.1" y1="30.48" x2="48.26" y2="30.48" width="0.1524" layer="91"/>
-<label x="43.18" y="30.48" size="1.778" layer="95"/>
-</segment>
-</net>
 <net name="3V3" class="0">
 <segment>
 <pinref part="TTGO-T8_V1.8" gate="G$1" pin="3V3@1"/>
@@ -4217,6 +4205,18 @@ This footprint was designed to help hold the alignment of a through-hole compone
 <pinref part="TTGO-T8_V1.8" gate="G$1" pin="BAT"/>
 <wire x1="106.68" y1="12.7" x2="116.84" y2="12.7" width="0.1524" layer="91"/>
 <label x="111.76" y="12.7" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="14" class="0">
+<segment>
+<pinref part="J2" gate="G$1" pin="3"/>
+<wire x1="38.1" y1="30.48" x2="48.26" y2="30.48" width="0.1524" layer="91"/>
+<label x="43.18" y="30.48" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="TTGO-T8_V1.8" gate="G$1" pin="14"/>
+<wire x1="106.68" y1="33.02" x2="116.84" y2="33.02" width="0.1524" layer="91"/>
+<label x="111.76" y="33.02" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
