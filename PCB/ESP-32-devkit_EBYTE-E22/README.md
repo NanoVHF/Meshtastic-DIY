@@ -69,3 +69,8 @@ Design by Denis Gorbunov (https://t.me/deaxx)
 
 ![Meshtastic-DIY_v2.2_top](images/Meshtastic-DIY_v2.2_top.jpg "Meshtastic-DIY_v2.2_top")
 ![Meshtastic-DIY_v2.2_bottom](images/Meshtastic-DIY_v2.2_bottom.jpg "Meshtastic-DIY_v2.2_bottom")
+
+
+## EBYTE E22-xxxMxxS adapter board
+![Meshtastic-DIY_v2.2_top](images/E22-XXXMXXS_top.jpg "E22-XXXMXXS_top")
+![Meshtastic-DIY_v2.2_bottom](images/E22-XXXMXXS_bottom.jpg "E22-XXXMXXS_bottom.jpg")
