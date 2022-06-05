@@ -7,7 +7,7 @@ Design by Denis Gorbunov (https://t.me/deaxx)
 
 ## Mesh-v1.01-2LCD-FreePins - Basic
 - ESP32 WROOM-32 DevKit 38 pins,
-- LORA: EBYTE E22-XXXM30S/E22-XXXM22S (selectable module). LoRa is connected via an additional adapter board,
+- LORA: EBYTE E22-XXXM30S/E22-XXXM22S (selectable module). LoRa is connected via [an additional adapter board](#ebyte-e22-xxxmxxs-adapter-board),
 - GPS,
 - LCD (select different screens via jumpers: Vcc/GND or GND/Vcc),
 - FR (free pins) - free ESP32 pins are placed along the edges of the board.
@@ -39,7 +39,7 @@ Design by Denis Gorbunov (https://t.me/deaxx)
 
 ## Mesh-v1.03-2LCD-FreePins - Compact wearable
 - ESP32 WROOM-32 DevKit 38 pins,
-- LORA: EBYTE E22-XXXM30S/E22-XXXM22S (selectable module). LoRa is connected via an additional adapter board,
+- LORA: EBYTE E22-XXXM30S/E22-XXXM22S (selectable module). LoRa is connected via [an additional adapter board](#ebyte-e22-xxxmxxs-adapter-board),
 - GPS,
 - LCD (select different screens via jumpers: Vcc/GND or GND/Vcc),
 - FR (free pins) - free ESP32 pins are placed along the edges of the board.
@@ -50,7 +50,7 @@ Design by Denis Gorbunov (https://t.me/deaxx)
 
 ## Mesh-v1.04-TTGO-T8 - Compact wearable @ WROOWER T8 Lilygo
 - ESP32 *WROOWER T8 Lilygo* 38 pins,
-- LORA: EBYTE E22-XXXM30S/E22-XXXM22S (selectable module). LoRa is connected via an additional adapter board,
+- LORA: EBYTE E22-XXXM30S/E22-XXXM22S (selectable module). LoRa is connected via [an additional adapter board](#ebyte-e22-xxxmxxs-adapter-board),
 - GPS,
 - LCD (select different screens via jumpers: Vcc/GND or GND/Vcc),
 - FR (free pins) - free ESP32 pins are placed along the edges of the board.
