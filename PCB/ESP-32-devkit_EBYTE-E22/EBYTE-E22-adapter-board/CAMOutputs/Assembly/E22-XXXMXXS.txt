@@ -1,5 +1,3 @@
-Partlist exported from C:/Users/Denis/Documents/EAGLE/projects/LoRa/Meshtastic-DIY/E22-XXXMXXS.sch at 11.02.2022 22:10
-
 Qty Value       Device      Package     Parts          Description                                                                                                     
 4               CONN_13     1X13        J1, J2, J3, J4 Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections 
 1   E22-XXXM22S E22-XXXM22S E22-XXXM22S U$1                                                                                                                            
