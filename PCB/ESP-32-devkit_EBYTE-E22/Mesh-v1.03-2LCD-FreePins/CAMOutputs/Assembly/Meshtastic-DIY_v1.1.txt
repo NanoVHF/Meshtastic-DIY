@@ -1,5 +1,3 @@
-Partlist exported from C:/Users/Denis/Documents/EAGLE/projects/LoRa/Meshtastic-DIY_v1.1/Meshtastic-DIY_v1.1.sch at 22.12.2021 1:07
-
 Qty Value                           Device                            Package                        Parts         Description                                                                                                     ESP            POPULARITY PROD_ID    SF_SKU    TP_SIGNAL_NAME VALUE 
 1                                   CONN_10X2NOSILK                   2X10_NOSILK                    J1            Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections                                                                     
 1                                   NODEMCU_ESP32_WROOM_32            NODEMCU_ESP32_WROOM_32--38PINS ESP32-1       NODEMCU ESP32 WROOM 32                                                                                          ESP32 WROOM 32                                                      
