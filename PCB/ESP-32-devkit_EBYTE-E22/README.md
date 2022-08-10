@@ -70,6 +70,15 @@ Design by Denis Gorbunov (https://t.me/deaxx)
 ![Meshtastic-DIY_v1.05_bottom](images/Meshtastic-DIY_v1.05_bottom.jpg "Meshtastic-DIY_v1.05_bottom")
 
 
+## Meshtastic-DIY_v1.06 - TTGO T-Energy T18 V3.0 HAT
+- *Lilygo TTGO T-Energy T18 V3.0*,
+- LORA: EBYTE E22-XXXM30S/E22-XXXM22S (selectable module),
+- LCD (select different screens via jumpers: Vcc/GND or GND/Vcc).
+
+![Mesh-v1.06-TTGO-T18-V30_top](images/Mesh-v1.06-TTGO-T18-V30_top.jpg "Mesh-v1.06-TTGO-T18-V30_top")
+![Mesh-v1.06-TTGO-T18-V30_bottom](images/Mesh-v1.06-TTGO-T18-V30_bottom.jpg "Mesh-v1.06-TTGO-T18-V30_bottom")
+
+
 ## EBYTE E22-xxxMxxS adapter board
 ![E22-XXXMXXS_top](images/E22-XXXMXXS_top.jpg "E22-XXXMXXS_top")
 ![E22-XXXMXXS_bottom](images/E22-XXXMXXS_bottom.jpg "E22-XXXMXXS_bottom.jpg")
