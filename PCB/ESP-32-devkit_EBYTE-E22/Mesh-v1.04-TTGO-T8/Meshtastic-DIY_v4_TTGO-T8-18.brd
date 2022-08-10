@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="0.127" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="5" altunitdist="mil" altunit="mm"/>
@@ -241,6 +241,10 @@
 <text x="39.192" y="27.083" size="0.9" layer="25" font="vector" ratio="18">М30</text>
 <text x="33.985" y="27.083" size="0.9" layer="25" font="vector" ratio="18">М22</text>
 <wire x1="37.719" y1="27.432" x2="38.608" y2="27.432" width="0.2" layer="25"/>
+<text x="14.554" y="13.875" size="0.9" layer="25" font="vector" ratio="18">GND</text>
+<text x="18.11" y="13.875" size="0.9" layer="25" font="vector" ratio="18">VCC</text>
+<text x="22.682" y="13.875" size="0.9" layer="25" font="vector" ratio="18">VCC</text>
+<text x="26.111" y="13.875" size="0.9" layer="25" font="vector" ratio="18">GND</text>
 </plain>
 <libraries>
 <library name="13oled">
@@ -862,22 +866,18 @@ design rules under a new name.</description>
 <attribute name="PROD_ID" value="CAP-08469" x="69.977" y="32.893" size="1.778" layer="28" rot="MR180" display="off"/>
 </element>
 <element name="1" library="jumper" library_urn="urn:adsk.eagle:library:252" package="SJ" package3d_urn="urn:adsk.eagle:package:15471/1" value="" x="15.494" y="12.446" smashed="yes">
-<attribute name="NAME" x="15.24" y="13.716" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="33" x="15.494" y="12.446" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="15.8941" y="12.446" size="0.02" layer="27"/>
 </element>
 <element name="2" library="jumper" library_urn="urn:adsk.eagle:library:252" package="SJ" package3d_urn="urn:adsk.eagle:package:15471/1" value="" x="27.178" y="12.446" smashed="yes">
-<attribute name="NAME" x="26.797" y="13.716" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="33" x="23.241" y="8.382" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="27.5781" y="12.446" size="0.02" layer="27"/>
 </element>
 <element name="3" library="jumper" library_urn="urn:adsk.eagle:library:252" package="SJ" package3d_urn="urn:adsk.eagle:package:15471/1" value="" x="23.622" y="12.446" smashed="yes">
-<attribute name="NAME" x="23.241" y="13.716" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="33" x="23.622" y="8.382" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="24.0221" y="12.446" size="0.02" layer="27"/>
 </element>
 <element name="4" library="jumper" library_urn="urn:adsk.eagle:library:252" package="SJ" package3d_urn="urn:adsk.eagle:package:15471/1" value="" x="19.05" y="12.446" smashed="yes">
-<attribute name="NAME" x="18.669" y="13.716" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="33" x="15.113" y="4.318" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="19.4501" y="12.446" size="0.02" layer="27"/>
 </element>
